@@ -173,21 +173,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight:500;
 }
 
-body{
-  background-color:#434343;  /*消炭*/
-  color:#FFF;
-  color:#000;
-}
 
-.navigation a,
-a{
-  color:#A5DEE4 !important;  /*瓶覗*/
-}
-
-pre{
-  background-color:#1C1C1C;  /*墨*/
-  color:#fff;
-}
 
 
 
@@ -327,6 +313,18 @@ article .markdown-body {
   content: ')';
 }
 
+body{
+  background-color:#434343;  /*消炭*/
+  color:#FFF;
+  color:#000;
+}
 
+.navigation a,
+a{
+  color:#A5DEE4 !important;  /*瓶覗*/
+}
 
-
+pre{
+  background-color:#1C1C1C;  /*墨*/
+  color:#fff;
+}
