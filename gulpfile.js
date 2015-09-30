@@ -73,7 +73,9 @@ function GetMinCSSName(){
 }
 function blog_html_sources(){
   return ['./index.html',
-          './detail.html'];
+          './detail.html',
+          './login.html',
+          './post.html'];
 }
 function blog_css_sources(){
   return ['./assets/global/plugins/normalize.css/normalize.css',
